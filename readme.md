@@ -1,4 +1,4 @@
-##  Written by ChatGPT as a summary of the codebase that I have attached in this repository:
+### This readme file is written by ChatGPT as an output for the codebase I shared with it to explain nicely what is occuring in the codebase.
 
 This code implements a neural network to play a game of rocket and land it safely by optimizing two target variables through backpropagation. The code begins with the import of necessary libraries such as NumPy, Pandas, Matplotlib, and Pickle. The `NeuralNetwork` class is defined next, which initializes with a random `lambda_val` and `learning_rate` value, defines the network's structure in the `layers` and `neurons` variables, and initializes empty `weights`, `input_value`, and `delta` lists.
 
